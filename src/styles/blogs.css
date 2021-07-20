@@ -38,6 +38,7 @@
   font-size: var(--para-font);
   line-height: 1.4em;
   margin: 15px 0;
+  /* opacity: 70%; */
 }
 
 .blog-link {

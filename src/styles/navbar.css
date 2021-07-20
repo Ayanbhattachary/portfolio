@@ -59,33 +59,34 @@
   font-size: 1.2em;
   padding-bottom: 5px;
   color: var(--content-color-main);
+  /* opacity: 40%; */
   transition: all 0.25s;
   cursor: pointer;
   margin-left: 35px;
 }
 
-.navigation ul li:nth-child(4) {
+/* .navigation ul li:nth-child(4) {
   opacity: 100%;
-}
+} */
 
 .dark .navigation ul li {
   color: var(--content-color-dark);
 }
 
-.navigation ul li:hover {
+/* .navigation ul li:hover {
   opacity: 100%;
-}
+} */
 
 .active-nav > li {
   border-bottom: 2px solid var(--content-color-main);
   color: var(--content-color-main);
-  opacity: 100% !important;
+  /* opacity: 100% !important; */
 }
 
 .dark .active-nav > li {
   border-bottom: 2px solid var(--content-color-dark);
   color: var(--content-color-dark);
-  opacity: 100% !important;
+  /* opacity: 100% !important; */
 }
 
 .option-icon {
