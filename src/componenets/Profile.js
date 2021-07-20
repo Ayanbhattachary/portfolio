@@ -19,7 +19,7 @@ function Profile() {
           {/* // all other components will go here */}
           <Route exact path="/projects" component={Projects} />
           <Route exact path="/profile" component={Main} />
-          <Route exact path="/">
+          <Route path="/">
             <Redirect to="/profile" />
           </Route>
         </Switch>
