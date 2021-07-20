@@ -62,7 +62,7 @@
 
 .greeting-text {
   color: inheir;
-  opacity: 80%;
+  /* opacity: 10%; */
   font-size: var(--para-font);
   overflow: hidden;
 }
