@@ -12,7 +12,7 @@ import {
 
 function Profile() {
   return (
-    <Router>
+    <Router basename={process.env.PUBLIC_URL}>
       <div className="profile">
         <Navbar />
         <Switch>
