@@ -7,7 +7,7 @@ function Footer() {
       <div className="footer-app">
         <h1 className="footer-title">How about grabbing a coffee sometime?</h1>
         <p className="footer-subheading">
-          Whatever it is, Just drop me a hello
+          Whatever it is, Let's just discuss about it
         </p>
         <div className="social-media-icons">
           <a href="https://www.linkedin.com/in/ayanbhattachary/">

@@ -1,6 +1,8 @@
 :root {
   --background-color-main: white;
   --background-color-dark: #243447;
+  --content-color-main-opacity: rgba(0, 0, 0, 0.4);
+  --content-color-dark-opacity: rgba(255, 255, 255, 0.4);
   --content-color-main: black;
   --content-color-dark: white;
   --border-color-main: rgba(0, 0, 0, 0.4);
@@ -16,10 +18,10 @@
 @media screen and (max-width: 768px) {
   :root {
     --large-title-size: 1.9em;
-    --subtitle-font: 1.2em;
-    --para-font: 1em;
-    --section-heading-font: 1.6em;
-    --content-heading-size: 1.4em;
+    --subtitle-font: 1em;
+    --para-font: 0.8em;
+    --section-heading-font: 1.4em;
+    --content-heading-size: 1.2em;
   }
 }
 

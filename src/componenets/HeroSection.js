@@ -18,7 +18,7 @@ export default class HeroSection extends Component {
 
     // typing effect
     var i = 0;
-    var txt = `Hi there, my name is Ayan Bhattacharya, and I love building software products that solves real-world user problems to make their life more comfortable.❤️`; /* The text */
+    var txt = `Hi there, my name is Ayan Bhattacharya, and I always love building software products at scale that solves real-world user problems. Thank you for checking in.❤️`; /* The text */
     var speed = 30; /* The speed/duration of the effect in milliseconds */
     function typeWriter() {
       if (i < txt.length) {

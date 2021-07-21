@@ -51,3 +51,10 @@
 .dark .social-media-icons svg {
   fill: var(--content-color-dark);
 }
+
+@media screen and (max-width: 768px) {
+  .social-media-icons svg {
+    width: 25px;
+    height: 25px;
+  }
+}
