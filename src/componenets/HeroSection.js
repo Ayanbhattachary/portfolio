@@ -42,7 +42,7 @@ export default class HeroSection extends Component {
               UI/UX Designer, Front-end Developer & Entrepreneur
             </h1>
             <p className="banner-subtitle ">
-              I design and code beautifully simple things, I'm highly skilled in
+              I design and code beautifully simple things. I'm highly skilled in
               optimizing work processes to enhance user experiences and deliver
               products that are easy to use and enjoyable.
             </p>
