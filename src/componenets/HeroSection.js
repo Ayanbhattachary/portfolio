@@ -44,7 +44,7 @@ export default class HeroSection extends Component {
             <p className="banner-subtitle ">
               I design and code beautifully simple things. I'm highly skilled in
               optimizing work processes to enhance user experiences and deliver
-              products that are easy to use and enjoyable.
+              products that are easy to use and solve real world problems.
             </p>
             <div className="avatar-animation">
               <img
