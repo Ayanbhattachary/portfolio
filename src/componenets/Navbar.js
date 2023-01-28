@@ -24,7 +24,7 @@ function Navbar() {
                   <a
                     target="_blank"
                     rel="noreferrer"
-                    href="https://drive.google.com/file/d/1DYQAPSOi34ROyrr8MfnZc3ixwVig0Zrg/view?usp=share_link"
+                    href="https://drive.google.com/file/d/1oXoYU2mvErjDaplCMWYyLZh_15lRtsaX/view?usp=share_link"
                   >
                     <li>Resume</li>
                   </a>
